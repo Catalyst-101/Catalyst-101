@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 CS student at NUST. Full-stack web developer and mobile app developer with experience in AI/ML. Interested in cybersecurity and always learning new technologies.
 
 
